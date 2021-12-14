@@ -14,6 +14,7 @@ namespace GenericsIntro
         {
             items = new T[0];
 
+
         }
         public void Add(T item)
         {
